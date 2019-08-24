@@ -10,3 +10,27 @@
 	left: 0%;
 */
 }
+.legend-div {
+	opacity:.8;
+    background-image: linear-gradient(265deg,#43cbff,#688cff);
+}
+
+.text-legend{
+	color: 	#000000;
+}
+.text-second{
+	color: #f0aa32;
+
+}
+.control-div {
+    margin-right:5px;
+    margin-left: 5px;
+	margin-bottom: 5px;
+}
+.control-card{
+	margin-right: 4px;
+	margin-left: 4px;
+
+
+
+}
