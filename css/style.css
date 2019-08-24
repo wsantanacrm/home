@@ -1,0 +1,12 @@
+.imagem-carrossel{
+	object-fit: cover;
+	height: 400px;
+}
+.carousel-caption {
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.85);
+/*	opacity:.1;
+	background-color: #000000;
+	right: 0%;
+	left: 0%;
+*/
+}
